@@ -1,0 +1,130 @@
+------------THREAD = 1 (SERIAL)------------
+------------ITERATION 1
+
+real	2m24.473s
+user	2m24.373s
+sys	0m0.097s
+------------ITERATION 2
+
+real	2m24.556s
+user	2m24.471s
+sys	0m0.084s
+------------ITERATION 3
+
+real	2m24.167s
+user	2m24.069s
+sys	0m0.097s
+------------ITERATION 4
+
+real	2m24.184s
+user	2m24.094s
+sys	0m0.089s
+------------ITERATION 5
+
+real	2m24.803s
+user	2m24.703s
+sys	0m0.100s
+------------THREAD = 2------------
+------------ITERATION 1
+
+real	1m12.097s
+user	2m23.137s
+sys	0m0.157s
+------------ITERATION 2
+
+real	1m12.740s
+user	2m22.558s
+sys	0m0.180s
+------------ITERATION 3
+
+real	1m11.640s
+user	2m21.877s
+sys	0m0.244s
+------------ITERATION 4
+
+real	1m11.788s
+user	2m22.344s
+sys	0m0.224s
+------------ITERATION 5
+
+real	1m12.009s
+user	2m22.427s
+sys	0m0.240s
+------------THREAD = 4------------
+------------ITERATION 1
+
+real	0m38.171s
+user	2m28.763s
+sys	0m0.124s
+------------ITERATION 2
+
+real	0m37.644s
+user	2m27.211s
+sys	0m0.126s
+------------ITERATION 3
+
+real	0m37.825s
+user	2m27.891s
+sys	0m0.153s
+------------ITERATION 4
+
+real	0m37.371s
+user	2m26.070s
+sys	0m0.131s
+------------ITERATION 5
+
+real	0m37.489s
+user	2m26.712s
+sys	0m0.121s
+------------THREAD = 6------------
+------------ITERATION 1
+
+real	0m27.500s
+user	2m40.149s
+sys	0m0.127s
+------------ITERATION 2
+
+real	0m27.406s
+user	2m39.906s
+sys	0m0.127s
+------------ITERATION 3
+
+real	0m27.571s
+user	2m39.725s
+sys	0m0.132s
+------------ITERATION 4
+
+real	0m28.077s
+user	2m43.328s
+sys	0m0.155s
+------------ITERATION 5
+
+real	0m27.993s
+user	2m41.266s
+sys	0m0.162s
+------------THREAD = 8------------
+------------ITERATION 1
+
+real	0m22.544s
+user	2m53.591s
+sys	0m0.116s
+------------ITERATION 2
+
+real	0m22.292s
+user	2m51.714s
+sys	0m0.113s
+------------ITERATION 3
+
+real	0m22.532s
+user	2m53.818s
+sys	0m0.150s
+------------ITERATION 4
+
+real	0m22.358s
+user	2m52.318s
+sys	0m0.155s
+------------ITERATION 5
+
+real	0m22.642s
+user	2m53.762s
+sys	0m0.134s

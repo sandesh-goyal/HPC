@@ -1,0 +1,130 @@
+------------THREAD = 1 (SERIAL)------------
+------------ITERATION 1
+
+real	19m23.286s
+user	19m22.918s
+sys	0m0.362s
+------------ITERATION 2
+
+real	19m20.922s
+user	19m20.599s
+sys	0m0.318s
+------------ITERATION 3
+
+real	19m23.632s
+user	19m23.268s
+sys	0m0.360s
+------------ITERATION 4
+
+real	19m21.056s
+user	19m20.704s
+sys	0m0.346s
+------------ITERATION 5
+
+real	19m23.288s
+user	19m22.946s
+sys	0m0.336s
+------------THREAD = 2------------
+------------ITERATION 1
+
+real	9m49.776s
+user	19m31.602s
+sys	0m2.433s
+------------ITERATION 2
+
+real	9m53.603s
+user	19m40.102s
+sys	0m0.644s
+------------ITERATION 3
+
+real	9m52.206s
+user	19m36.995s
+sys	0m2.295s
+------------ITERATION 4
+
+real	9m55.167s
+user	19m43.501s
+sys	0m1.219s
+------------ITERATION 5
+
+real	9m54.375s
+user	19m42.230s
+sys	0m1.528s
+------------THREAD = 4------------
+------------ITERATION 1
+
+real	5m23.114s
+user	21m2.639s
+sys	0m0.964s
+------------ITERATION 2
+
+real	5m21.296s
+user	21m4.859s
+sys	0m0.941s
+------------ITERATION 3
+
+real	5m18.684s
+user	20m56.806s
+sys	0m0.875s
+------------ITERATION 4
+
+real	5m16.127s
+user	20m34.564s
+sys	0m0.747s
+------------ITERATION 5
+
+real	5m16.093s
+user	20m39.640s
+sys	0m0.903s
+------------THREAD = 6------------
+------------ITERATION 1
+
+real	3m58.194s
+user	23m19.327s
+sys	0m1.397s
+------------ITERATION 2
+
+real	3m59.197s
+user	23m14.329s
+sys	0m0.971s
+------------ITERATION 3
+
+real	3m59.673s
+user	23m13.709s
+sys	0m1.392s
+------------ITERATION 4
+
+real	3m52.792s
+user	22m54.733s
+sys	0m0.590s
+------------ITERATION 5
+
+real	3m56.757s
+user	23m12.057s
+sys	0m0.999s
+------------THREAD = 8------------
+------------ITERATION 1
+
+real	3m15.779s
+user	25m26.045s
+sys	0m1.328s
+------------ITERATION 2
+
+real	3m15.186s
+user	25m23.754s
+sys	0m1.273s
+------------ITERATION 3
+
+real	3m14.971s
+user	25m28.659s
+sys	0m0.789s
+------------ITERATION 4
+
+real	3m20.937s
+user	25m59.271s
+sys	0m1.256s
+------------ITERATION 5
+
+real	3m13.666s
+user	25m17.883s
+sys	0m0.986s

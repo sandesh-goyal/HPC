@@ -1,0 +1,260 @@
+------------PROCESS = 2 (SERIAL: ROOT+1)------------
+------------ITERATION 1
+Run Time for process 1 = 310.903852s
+Run Time for process 0 = 310.904298s
+
+real	5m11.304s
+user	10m21.478s
+sys	0m0.594s
+------------ITERATION 2
+Run Time for process 1 = 316.151787s
+Run Time for process 0 = 316.151946s
+
+real	5m16.527s
+user	10m31.966s
+sys	0m0.545s
+------------ITERATION 3
+Run Time for process 1 = 316.741196s
+Run Time for process 0 = 316.741293s
+
+real	5m17.115s
+user	10m33.138s
+sys	0m0.537s
+------------ITERATION 4
+Run Time for process 1 = 310.213571s
+Run Time for process 0 = 310.214215s
+
+real	5m10.587s
+user	10m20.045s
+sys	0m0.611s
+------------ITERATION 5
+Run Time for process 1 = 310.723942s
+Run Time for process 0 = 310.723989s
+
+real	5m11.085s
+user	10m21.227s
+sys	0m0.430s
+------------PROCESS = 3 (ROOT+2)------------
+------------ITERATION 1
+Run Time for process 1 = 341.849561s
+Run Time for process 2 = 341.849041s
+Run Time for process 0 = 341.849425s
+
+real	5m42.226s
+user	17m5.221s
+sys	0m0.621s
+------------ITERATION 2
+Run Time for process 1 = 339.333874s
+Run Time for process 2 = 339.333360s
+Run Time for process 0 = 339.334067s
+
+real	5m39.745s
+user	16m57.662s
+sys	0m0.682s
+------------ITERATION 3
+Run Time for process 1 = 337.955170s
+Run Time for process 2 = 337.954720s
+Run Time for process 0 = 337.955536s
+
+real	5m38.348s
+user	16m53.599s
+sys	0m0.571s
+------------ITERATION 4
+Run Time for process 1 = 339.216692s
+Run Time for process 2 = 339.216207s
+Run Time for process 0 = 339.216552s
+
+real	5m39.610s
+user	16m57.353s
+sys	0m0.602s
+------------ITERATION 5
+Run Time for process 0 = 339.241751s
+Run Time for process 1 = 339.241883s
+Run Time for process 2 = 339.241403s
+
+real	5m39.641s
+user	16m57.388s
+sys	0m0.652s
+------------PROCESS = 5 (ROOT+4)------------
+------------ITERATION 1
+Run Time for process 1 = 397.915201s
+Run Time for process 2 = 397.915191s
+Run Time for process 4 = 397.914676s
+Run Time for process 0 = 397.915198s
+Run Time for process 3 = 397.915248s
+
+real	6m38.318s
+user	33m8.773s
+sys	0m1.249s
+------------ITERATION 2
+Run Time for process 3 = 370.885475s
+Run Time for process 4 = 370.884985s
+Run Time for process 1 = 370.885447s
+Run Time for process 2 = 370.885440s
+Run Time for process 0 = 370.885413s
+
+real	6m11.293s
+user	30m53.786s
+sys	0m1.139s
+------------ITERATION 3
+Run Time for process 3 = 390.572868s
+Run Time for process 4 = 390.572968s
+Run Time for process 1 = 390.572788s
+Run Time for process 2 = 390.573440s
+Run Time for process 0 = 390.573419s
+
+real	6m30.969s
+user	32m32.132s
+sys	0m1.188s
+------------ITERATION 4
+Run Time for process 1 = 385.283605s
+Run Time for process 2 = 385.283652s
+Run Time for process 3 = 385.283620s
+Run Time for process 4 = 385.283054s
+Run Time for process 0 = 385.283737s
+
+real	6m25.665s
+user	32m5.687s
+sys	0m1.194s
+------------ITERATION 5
+Run Time for process 3 = 378.384385s
+Run Time for process 4 = 378.383922s
+Run Time for process 1 = 378.384309s
+Run Time for process 2 = 378.384482s
+Run Time for process 0 = 378.384444s
+
+real	6m18.763s
+user	31m31.280s
+sys	0m1.085s
+------------PROCESS = 7 (ROOT+6)------------
+------------ITERATION 1
+Run Time for process 1 = 445.121912s
+Run Time for process 2 = 445.122641s
+Run Time for process 3 = 445.122781s
+Run Time for process 4 = 445.122366s
+Run Time for process 5 = 445.122242s
+Run Time for process 6 = 445.122343s
+Run Time for process 0 = 445.123094s
+
+real	7m25.528s
+user	51m54.839s
+sys	0m1.603s
+------------ITERATION 2
+Run Time for process 1 = 443.993809s
+Run Time for process 2 = 443.994611s
+Run Time for process 3 = 443.994624s
+Run Time for process 4 = 443.994946s
+Run Time for process 5 = 443.994314s
+Run Time for process 6 = 443.994377s
+Run Time for process 0 = 443.994379s
+
+real	7m24.394s
+user	51m46.597s
+sys	0m1.988s
+------------ITERATION 3
+Run Time for process 1 = 434.843834s
+Run Time for process 2 = 434.844430s
+Run Time for process 3 = 434.844437s
+Run Time for process 4 = 434.844515s
+Run Time for process 5 = 434.844022s
+Run Time for process 6 = 434.844000s
+Run Time for process 0 = 434.844557s
+
+real	7m15.272s
+user	50m42.613s
+sys	0m1.960s
+------------ITERATION 4
+Run Time for process 1 = 444.570296s
+Run Time for process 2 = 444.570254s
+Run Time for process 3 = 444.569795s
+Run Time for process 4 = 444.570314s
+Run Time for process 5 = 444.569873s
+Run Time for process 6 = 444.569799s
+Run Time for process 0 = 444.570361s
+
+real	7m24.987s
+user	51m50.647s
+sys	0m1.951s
+------------ITERATION 5
+Run Time for process 1 = 435.056655s
+Run Time for process 2 = 435.057184s
+Run Time for process 4 = 435.056974s
+Run Time for process 3 = 435.057018s
+Run Time for process 5 = 435.057094s
+Run Time for process 6 = 435.056710s
+Run Time for process 0 = 435.056842s
+
+real	7m15.477s
+user	50m44.086s
+sys	0m1.951s
+------------PROCESS = 9 (ROOT+8)------------
+------------ITERATION 1
+Run Time for process 1 = 484.409847s
+Run Time for process 2 = 484.410517s
+Run Time for process 3 = 484.410633s
+Run Time for process 4 = 484.410516s
+Run Time for process 5 = 484.410736s
+Run Time for process 6 = 484.410422s
+Run Time for process 7 = 484.410263s
+Run Time for process 8 = 484.410890s
+Run Time for process 0 = 484.411194s
+
+real	8m4.823s
+user	72m37.908s
+sys	0m2.617s
+------------ITERATION 2
+Run Time for process 4 = 484.625540s
+Run Time for process 5 = 484.625447s
+Run Time for process 6 = 484.625370s
+Run Time for process 7 = 484.624918s
+Run Time for process 8 = 484.625203s
+Run Time for process 1 = 484.625317s
+Run Time for process 2 = 484.625398s
+Run Time for process 3 = 484.624816s
+Run Time for process 0 = 484.626161s
+
+real	8m5.038s
+user	72m39.364s
+sys	0m3.017s
+------------ITERATION 3
+Run Time for process 4 = 498.397016s
+Run Time for process 5 = 498.397018s
+Run Time for process 6 = 498.396981s
+Run Time for process 7 = 498.397272s
+Run Time for process 8 = 498.396581s
+Run Time for process 1 = 498.397084s
+Run Time for process 2 = 498.397000s
+Run Time for process 3 = 498.397068s
+Run Time for process 0 = 498.397243s
+
+real	8m18.816s
+user	74m43.408s
+sys	0m2.945s
+------------ITERATION 4
+Run Time for process 1 = 469.625141s
+Run Time for process 2 = 469.625409s
+Run Time for process 3 = 469.625417s
+Run Time for process 8 = 469.625691s
+Run Time for process 0 = 469.625753s
+Run Time for process 4 = 469.624821s
+Run Time for process 5 = 469.625488s
+Run Time for process 6 = 469.625560s
+Run Time for process 7 = 469.625543s
+
+real	7m50.054s
+user	70m24.322s
+sys	0m3.101s
+------------ITERATION 5
+Run Time for process 1 = 480.563433s
+Run Time for process 2 = 480.564143s
+Run Time for process 3 = 480.564037s
+Run Time for process 0 = 480.564430s
+Run Time for process 4 = 480.564243s
+Run Time for process 5 = 480.563818s
+Run Time for process 6 = 480.564425s
+Run Time for process 7 = 480.564368s
+Run Time for process 8 = 480.563891s
+
+real	8m1.000s
+user	72m3.213s
+sys	0m2.715s
