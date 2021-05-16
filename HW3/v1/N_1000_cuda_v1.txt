@@ -1,0 +1,26 @@
+nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+------------ITERATION 1
+
+real	0m0.743s
+user	0m0.085s
+sys	0m0.577s
+------------ITERATION 2
+
+real	0m0.733s
+user	0m0.082s
+sys	0m0.584s
+------------ITERATION 3
+
+real	0m0.717s
+user	0m0.071s
+sys	0m0.581s
+------------ITERATION 4
+
+real	0m0.733s
+user	0m0.071s
+sys	0m0.591s
+------------ITERATION 5
+
+real	0m0.768s
+user	0m0.072s
+sys	0m0.614s
